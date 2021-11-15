@@ -2,3 +2,7 @@
 
 dataset/
 *.joblib
+*.png
+*.svg
+*.docx
+*.pdf
