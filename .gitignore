@@ -1,0 +1,4 @@
+# Ignoraremos la base de datos.
+
+dataset/
+*.joblib
